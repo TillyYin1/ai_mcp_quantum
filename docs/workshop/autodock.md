@@ -1,4 +1,4 @@
-## autodock
+## QureGenAI平台教程：autodock定义口袋三维坐标进行对接预测及配体筛选
 
 
 ### 介绍
